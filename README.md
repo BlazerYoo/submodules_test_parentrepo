@@ -1,1 +1,1 @@
-# Partent-repo
+# Parent-repo
